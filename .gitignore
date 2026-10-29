@@ -1,0 +1,24 @@
+Local image folders
+
+root/
+result/
+
+Python cache & temporary files
+
+pycache/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+Environment files
+
+.env
+venv/
+env/
+.venv/
+
+IDE / Editor settings
+
+.vscode/
+.idea/
+*.swp
